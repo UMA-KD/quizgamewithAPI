@@ -1,0 +1,16 @@
+[
+    {
+    "q":"What is the capital of India?",
+    "options":["Delhi", "Mumbai", "Tamilnadu"],
+    "ans":"Delhi",
+    "category":"Generalknowledge",
+    "difficulty":"Easy"
+    },
+    {
+    "q":"What is the capital of Tamilnadu?",
+    "options":["Delhi", "Mumbai", "Chennai"],
+    "ans":"Chennai",
+    "category":"Generalknowledge",
+    "difficulty":"Easy"
+    }
+]
