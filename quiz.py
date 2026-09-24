@@ -5,13 +5,13 @@ print("Quiz Game")
 print("-"*30)
 with open("questions.json", "r") as file:
     questions=json.load(file)
-diff=int(input("Select difficulty level\n1. Easy\n2. Moderate\n3. Difficult\n"))
+diff=int(input("Select difficulty level\n1. easy\n2. medium\n3. hard\n"))
 while True:
     idx=1
     if diff==1:
         for quests in questions:
        
-            if quests['difficulty']=="Easy":
+            if quests['difficulty']=="easy":
                 print(f"{idx}. {quests['q']}")
                 for i,j in enumerate(quests['options']):
                     print(f"{chr(64+i+1)}. {j}")

@@ -1,16 +1,592 @@
 [
     {
-    "q":"What is the capital of India?",
-    "options":["Delhi", "Mumbai", "Tamilnadu"],
-    "ans":"Delhi",
-    "category":"Generalknowledge",
-    "difficulty":"Easy"
+        "q": "Which of the following Copy Abilities was only featured in &quot;Kirby &amp; The Amazing Mirror&quot;?",
+        "options": [
+            "Mini",
+            "Magic",
+            "Smash",
+            "Missile"
+        ],
+        "ans": "Mini",
+        "category": "multiple",
+        "difficulty": "medium"
     },
     {
-    "q":"What is the capital of Tamilnadu?",
-    "options":["Delhi", "Mumbai", "Chennai"],
-    "ans":"Chennai",
-    "category":"Generalknowledge",
-    "difficulty":"Easy"
+        "q": "Which of these NHL teams have never moved since their inception?",
+        "options": [
+            "St. Louis Blues",
+            "New Jersey Devils",
+            "Carolina Hurricanes",
+            "Dallas Stars"
+        ],
+        "ans": "St. Louis Blues",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+        "options": [
+            "T-800",
+            "I-950",
+            "T-888",
+            "T-1000"
+        ],
+        "ans": "T-800",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+        "options": [
+            "Hans Christian Andersen",
+            "Charles Dickens",
+            "Lewis Carroll",
+            "Oscar Wilde"
+        ],
+        "ans": "Hans Christian Andersen",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+        "options": [
+            "Delirium",
+            "Mega Satan",
+            "Hush",
+            "The Lamb"
+        ],
+        "ans": "Delirium",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "What event inspired The Cranberries song &quot;Zombie&quot; ?",
+        "options": [
+            "The Warrington Bombings",
+            "September 11 Attacks",
+            "The Manchester Arena Bombing",
+            "The July 7th bombings"
+        ],
+        "ans": "The Warrington Bombings",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+        "options": [
+            "Finders Keepers",
+            "Double Dare",
+            "Nickelodeon Guts",
+            "Nick Arcade"
+        ],
+        "ans": "Finders Keepers",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "What was the name of Sonic the Hedgehog&#039;s original human girlfriend?",
+        "options": [
+            "Madonna",
+            "Celeste",
+            "Sierra",
+            "Nina"
+        ],
+        "ans": "Madonna",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+        "options": [
+            "November 5th",
+            "November 6th",
+            "November 4th",
+            "September 5th"
+        ],
+        "ans": "November 5th",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "Who was Donald Trump&#039;s first wife?",
+        "options": [
+            "Ivana Zeln&iacute;\u010dkov&aacute;",
+            "Melania Knauss",
+            "Marla Maples",
+            "Nancy Davis"
+        ],
+        "ans": "Ivana Zeln&iacute;\u010dkov&aacute;",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+        "options": [
+            "March 25th",
+            "June 1st",
+            "September 25th",
+            "December 1st"
+        ],
+        "ans": "March 25th",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+        "options": [
+            "Mega Man",
+            "Super Mario Brothers",
+            "Alex Kidd",
+            "Super Monkey Ball"
+        ],
+        "ans": "Mega Man",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "What did Albert Einstein win the Nobel Prize for in 1921?",
+        "options": [
+            "Photoelectric Effect",
+            "Relativity",
+            "Wave-Particle Duality",
+            "Zero-Point Energy"
+        ],
+        "ans": "Photoelectric Effect",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+        "options": [
+            "Sasha",
+            "Betty",
+            "Anna",
+            "Diana"
+        ],
+        "ans": "Sasha",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+        "options": [
+            "Operation Dragoon",
+            "Operation Overlord",
+            "Operation Market Garden",
+            "Operation Torch"
+        ],
+        "ans": "Operation Dragoon",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "In the &quot;Pikmin&quot; series, what is the only pikmin type to possess visible ears?",
+        "options": [
+            "Yellow",
+            "Red",
+            "White",
+            "Winged"
+        ],
+        "ans": "Yellow",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Who sang backup vocals on Rockwell&#039;s hit 1984 single &#039;Somebody&#039;s Watching Me&#039;?",
+        "options": [
+            "Michael Jackson",
+            "Paul McCartney",
+            "Elton John",
+            "Prince"
+        ],
+        "ans": "Michael Jackson",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+        "options": [
+            "Semper Fi",
+            "Ring of Steel",
+            "Vendetta",
+            "Eviction"
+        ],
+        "ans": "Semper Fi",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "What fast food chain has the most locations globally? ",
+        "options": [
+            "Subway",
+            "Starbucks",
+            "McDonalds",
+            "KFC"
+        ],
+        "ans": "Subway",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "IMAX stands for Image Maximum.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "ans": "True",
+        "category": "boolean",
+        "difficulty": "easy"
+    },
+    {
+        "q": "In Geometry Dash, what is level 13?",
+        "options": [
+            "Electroman Adventures",
+            "Theory of Everything",
+            "Clubstep ",
+            "Clutterfunk"
+        ],
+        "ans": "Electroman Adventures",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "The music video to The Buggle&#039;s &quot;Video Killed the Radio Star&quot; was the first music video to broadcast on MTV.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "ans": "True",
+        "category": "boolean",
+        "difficulty": "easy"
+    },
+    {
+        "q": "At what temperature does water boil?",
+        "options": [
+            "212&deg;F",
+            "200&deg;F",
+            "181&deg;F",
+            "178&deg;F"
+        ],
+        "ans": "212&deg;F",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
+        "options": [
+            "Lordgenome",
+            "Kingloname",
+            "Lord Genome",
+            "King Loname"
+        ],
+        "ans": "Lordgenome",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "Kuala Lumpur is the capital of which country?",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Singapore",
+            "Thailand"
+        ],
+        "ans": "Malaysia",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "options": [
+            "DING Ning (China)",
+            "LI Xiaoxia (China)",
+            "Ai FUKUHARA (Japan)",
+            "Song KIM (North Korea)"
+        ],
+        "ans": "DING Ning (China)",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Which British monarch was also known as &quot;William of Orange&quot;?",
+        "options": [
+            "William III",
+            "William I",
+            "William II",
+            "William IV"
+        ],
+        "ans": "William III",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "How fast is USB 3.1 Gen 2 theoretically?",
+        "options": [
+            "10 Gb/s",
+            "5 Gb/s",
+            "8 Gb/s",
+            "1 Gb/s"
+        ],
+        "ans": "10 Gb/s",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Super Mario Bros. was the first video game ever created.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "ans": "False",
+        "category": "boolean",
+        "difficulty": "easy"
+    },
+    {
+        "q": "Which of these countries is not a United Nations member state?",
+        "options": [
+            "Niue",
+            "Tuvalu",
+            "South Sudan",
+            "Montenegro"
+        ],
+        "ans": "Niue",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+        "options": [
+            "Siege of Petersburg",
+            "Siege of Vicksburg",
+            "Antietam Campaign",
+            "Gettysburg Campagin"
+        ],
+        "ans": "Siege of Petersburg",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "What is the name of the protagonist of Life Is Strange?",
+        "options": [
+            "Max Caulfield",
+            "Frank Bowers",
+            "Rachel Amber",
+            "Kate Marsh"
+        ],
+        "ans": "Max Caulfield",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "The LS1 engine is how many cubic inches?",
+        "options": [
+            "346",
+            "350",
+            "355",
+            "360"
+        ],
+        "ans": "346",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?",
+        "options": [
+            "Assassins",
+            "Bandits",
+            "Hunters",
+            "Ninjas"
+        ],
+        "ans": "Assassins",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Which of the following is the longest river in Europe?",
+        "options": [
+            "Volga",
+            "Danube",
+            "Ural",
+            "Dnieper"
+        ],
+        "ans": "Volga",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Which of the following Union Pacific &#039;Big Boy&#039; locomotives was restored to working order in 2019?",
+        "options": [
+            "4014",
+            "4012",
+            "4004",
+            "4000"
+        ],
+        "ans": "4014",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "What was Britney Spears&#039; debut single?",
+        "options": [
+            "...Baby One More Time",
+            "Oops!... I Did It Again",
+            "(You Drive Me) Crazy",
+            "Toxic"
+        ],
+        "ans": "...Baby One More Time",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "What is the first Sony PlayStation console that runs on CD?",
+        "options": [
+            "PS",
+            "PS2",
+            "PS3",
+            "PS4"
+        ],
+        "ans": "PS",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
+        "options": [
+            "Christopher Poole",
+            "Mark Zuckerberg",
+            "Allison Harvard",
+            "Catie Wayne"
+        ],
+        "ans": "Christopher Poole",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "Where is the &quot;Sonoran Desert&quot; located?",
+        "options": [
+            "North America",
+            "South America",
+            "Asia",
+            "Africa"
+        ],
+        "ans": "North America",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "The decimal number 31 in hexadecimal would be what?",
+        "options": [
+            "1F",
+            "3D",
+            "2E",
+            "1B"
+        ],
+        "ans": "1F",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "options": [
+            "Shogun",
+            "Ninja",
+            "Samurai",
+            "Shinobi"
+        ],
+        "ans": "Shogun",
+        "category": "multiple",
+        "difficulty": "medium"
+    },
+    {
+        "q": "How many carbon cars are there in Burnout Paradise?",
+        "options": [
+            "6",
+            "4",
+            "3",
+            "5"
+        ],
+        "ans": "6",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "Time on Computers is measured via the EPOX System.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "ans": "False",
+        "category": "boolean",
+        "difficulty": "easy"
+    },
+    {
+        "q": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+        "options": [
+            "Lordran",
+            "Drangleic",
+            "Oolacile",
+            "Catarina"
+        ],
+        "ans": "Lordran",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+        "options": [
+            "The Bible",
+            "The Halo",
+            "Brimstone",
+            "Book of Shadows"
+        ],
+        "ans": "The Bible",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Which Daft Punk album is the song &quot;Harder, Better, Faster, Stronger&quot; from?",
+        "options": [
+            "Discovery",
+            "Homework",
+            "Random Access Memories",
+            "Human After All"
+        ],
+        "ans": "Discovery",
+        "category": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "q": "What year did the Chevrolet LUV mini truck make its debut?",
+        "options": [
+            "1972",
+            "1982",
+            "1975",
+            "1973"
+        ],
+        "ans": "1972",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+        "options": [
+            "Sal DeLuca and Finn O&#039;Leary",
+            "Richtofen",
+            "Al Arlington and Sal DeLuca",
+            "Jessica Rose and Jack Vincent"
+        ],
+        "ans": "Sal DeLuca and Finn O&#039;Leary",
+        "category": "multiple",
+        "difficulty": "hard"
+    },
+    {
+        "q": "Wooden molding scraps were used to make the original Monopoly houses and hotels.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "ans": "True",
+        "category": "boolean",
+        "difficulty": "medium"
     }
 ]
