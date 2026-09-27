@@ -45,6 +45,7 @@ while True:
                             break
                         else:
                             print("Wrong answer! Better luck next time.")
+                            print("Correct answer is ",quests['ans'])
                             print(f"Score: {score}/{idx-1}")
                             break
                     else:
